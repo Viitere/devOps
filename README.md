@@ -1,4 +1,4 @@
-# devOps
+# devOps Exercise
 
 How to:
 
